@@ -1,8 +1,10 @@
 
+![MERN STACK WEB DEVLOPER](https://media.licdn.com/dms/image/D5616AQFktE0-8FRnwg/profile-displaybackgroundimage-shrink_350_1400/0/1673692195214?e=1678924800&v=beta&t=oal_exsMeOrFFFh6LqPOYYo8KQoZdE0_KkggFOcTuMM)
+
 # Hi there 👋, I am AYMON
 
 ### MERN STACK WEB DEVLOPER
-![MERN STACK WEB DEVLOPER](https://media.licdn.com/dms/image/D5616AQFktE0-8FRnwg/profile-displaybackgroundimage-shrink_350_1400/0/1673692195214?e=1678924800&v=beta&t=oal_exsMeOrFFFh6LqPOYYo8KQoZdE0_KkggFOcTuMM)
+
 
 I'm a Mern stack web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning. I love to solve real-world problems. I am strategic, goal-oriented and always work an end goal in mind. Over the past years, I create a lot of the website for clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I spend my time by learning, I enjoy working with include ReactJS, JavaScript as well as Node.js.
 
