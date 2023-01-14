@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm AYMON</h1>
 <h3 align="center">MERN STACK WEB DEVLOPER</h3>
 
+I'm a Mern stack web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning. I love to solve real-world problems. I am strategic, goal-oriented and always work an end goal in mind. Over the past years, I create a lot of the website for clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I spend my time by learning, I enjoy working with include ReactJS, JavaScript as well as Node.js.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymon2016&label=Profile%20views&color=0e75b6&style=flat" alt="aymon2016" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymon2016" alt="aymon2016" /></a> </p>
