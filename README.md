@@ -1,5 +1,5 @@
 
-![MERN STACK WEB DEVLOPER] (https://media.licdn.com/dms/image/D5616AQHdRlAr4kioJw/profile-displaybackgroundimage-shrink_350_1400/0/1674891338934?e=1680134400&v=beta&t=Bmd56g_mUyJKroJAj0Q_79sNTmWmalEI00JnteBsZ14)
+![MERN STACK WEB DEVLOPER] 
 
 <h1 align="center">Hi 👋, I'm AYMON</h1>
 <h3 align="center">MERN STACK WEB DEVLOPER</h3>
